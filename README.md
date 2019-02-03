@@ -1,5 +1,7 @@
 # Art150 | Assignment #1 - Drawing Machine
 
+![](Assignment1Art150.gif)
+
 Hello! Welcome!
 
 This is an assignment that I created for Art 150: Intro to New Media at UIC.
