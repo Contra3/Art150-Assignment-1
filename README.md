@@ -1,6 +1,4 @@
-# Art150 
-# Assignment 1 - Drawing Machine
-
+# Art150 | Assignment #1 - Drawing Machine
 
 Hello! Welcome!
 
